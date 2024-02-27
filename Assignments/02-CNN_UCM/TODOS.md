@@ -1,0 +1,2 @@
+-- Try different layer architecture in CNN to improve accuarcy on UCM dataset
+-- Save configurations and results in .csv
