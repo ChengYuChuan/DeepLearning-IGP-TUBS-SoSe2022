@@ -6,6 +6,9 @@
 Instructors: [Dr. -Ing. Mehdi Maboudi](https://www.tu-braunschweig.de/en/igp/staff/mehdi-maboudi) and [Dr. Pedro Diaz](https://www.tu-braunschweig.de/en/igp/staff/pedro-diaz)
 <br clear="left"/>
 
+The original github is here: https://github.com/Deep-Learning-IGP-TUBS-SoSe2022/2022-Group03
+This public repository is for CV reference.
+
 # Group members
 | First Name, Last Name| email |
 |:-------|:-------|
